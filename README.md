@@ -3,7 +3,7 @@
 Me llamo **Enzo Meneghini**, soy desarrollador Full Stack con enfoque en el backend y pasión por los sistemas críticos y seguros.
 
 📍 Jujuy, Argentina  
-🌐 [Mi portfolio](https://enzo-meneghini.netlify.app)  
+🌐 [Mi portfolio](https://enzo-meneghini.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/enzo-meneghini/)  
 📫 enzo.meneghini@hotmail.com
 
@@ -62,7 +62,7 @@ Me llamo **Enzo Meneghini**, soy desarrollador Full Stack con enfoque en el back
 - **Imagemin UI**  
   Interfaz gráfica con Electron para optimizar imágenes fácilmente.
 
-Podés ver más en mi portfolio 👉 [https://enzo-meneghini.netlify.app](https://enzo-meneghini.netlify.app)
+Podés ver más en mi portfolio 👉 [https://enzo-meneghini.com](https://enzo-meneghini.com)
 
 ---
 
